@@ -1,0 +1,22 @@
+﻿.cidade {
+    font-size: 0;
+}
+
+.linha {
+    display: block;
+}
+
+.celula {
+    width: 13px;
+    height: 13px;
+    border: 1px solid #000;
+    display: inline-block;
+}
+
+.casa {
+    background-color: #ff6a00;
+}
+
+.rua {
+    background-color: #333;
+}
